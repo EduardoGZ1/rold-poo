@@ -33,3 +33,17 @@ Data: 04/11/2025
 
 A ideia da Classe TipoDespesa seria a de estruturar corretamente a categoria de despesa dos objetos da classe Despesa, permitindo a edição das mesmas.
 A ideia da Classe Usuario é fazer o controle de acesso do sistema, permitindo que no futuro tenhamos a persistência em BD de acordo com o UUID.
+
+## v0.0.3 - MVP Funcional
+
+Data: 12/11/2025
+
+### Descrição
+
+- Implementado cadastro de despesas (descrição, valor, data e tipo).  
+- Adicionado registro de pagamento de despesas.  
+- Criada listagem separada para despesas **pagas** e **em aberto**.  
+- Interface funcional com `JOptionPane`.  
+- Estrutura reorganizada em camadas: `model`, `service` e `Main`.  
+- Base pronta para persistência e gerenciamento de usuários/tipos.
+

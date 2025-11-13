@@ -35,11 +35,11 @@ Nesta fase não há lógica funcional, apenas estrutura e interação visual ini
 ## Etapa 3 — Funcionalidades principais (MVP funcional)
 
 **Versão prevista:** v0.0.3  
-**Status:** Em desenvolvimento
+**Status:** Concluída
 
 ### Objetivos
 
-- Implementar cadastro e listagem de despesas.
+- Implementar cadastro e listagem de despesas. ❌
 - Adicionar despesas com descrição, valor, data e tipo.
 - Salvar temporariamente em lista (sem arquivo ainda).
 - Implementar `TipoDespesa` com CRUD básico em memória.
